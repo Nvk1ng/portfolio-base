@@ -55,12 +55,12 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
       languages: 'Idiomas'
     },
     hero: {
-      name: 'Seu Nome',
-      role: 'Seu Cargo Principal',
-      nationality: 'Sua Nacionalidade',
-      location: 'Sua Cidade, Pais',
-      phone: '+55 (00) 00000-0000',
-      email: 'voce@seudominio.com',
+      name: 'Matheus Sanderhus,
+      role: 'Software Developer',
+      nationality: 'Brazil',
+      location: 'Vitória, Brazil',
+      phone: '+55 (27) 99768-0168',
+      email: 'sanderhus15@outlook.com',
       about: [
         'Escreva aqui um resumo curto sobre quem voce e e qual problema voce resolve.',
         'No segundo paragrafo, explique sua especialidade tecnica e sua forma de trabalho.',
