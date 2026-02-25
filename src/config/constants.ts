@@ -62,9 +62,9 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
       phone: "+55 (27) 99768-0168",
       email: "sanderhus15@outlook.com",
       about: [
-        "Escreva aqui um resumo curto sobre quem voce e e qual problema voce resolve.",
-        "No segundo paragrafo, explique sua especialidade tecnica e sua forma de trabalho.",
-        "No terceiro, destaque impacto de negocio, lideranca tecnica e resultados concretos.",
+        "Sou um Desenvolvedor Back-End com foco em .NET/C# e apaixonado por construir soluções robustas, escaláveis e de alta performance.",
+        "Atualmente faço parte do time da Code n'App, onde atuo no desenvolvimento e manutenção de aplicações modernas utilizando .NET 6/8, ASP.NET Core e boas práticas como Clean Architecture, DDD e Repository Pattern.",
+        "Tenho experiência sólida na criação e otimização de APIs RESTful, gerenciamento de banco de dados com SQL Server, Entity Framework e Dapper, além de vivência prática em ambientes DevOps com Docker, Kubernetes, AWS e pipelines de CI/CD no Azure DevOps.",
       ],
     },
     actions: {
