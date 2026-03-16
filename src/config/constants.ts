@@ -139,9 +139,9 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
     ],
     skills: skillsPt,
     education: {
-      institution: "Universidade ou Instituicao",
-      degree: "Curso / Formacao",
-      date: "MM/AAAA",
+      institution: "Instituto Infnet",
+      degree: "Nivel Superior, Tecnologia da Informação",
+      date: "12/2027",
       languages: [
         { name: "Portugues", level: "Nativo" },
         { name: "Ingles", level: "Avancado" },
