@@ -115,16 +115,17 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
     experiences: [
       {
         company: "Empresa Atual",
-        location: "Remoto / Cidade, Pais",
-        role: "Cargo Atual",
-        period: "01/2024 - Presente",
+        location: "Remoto / Vitória - ES, Brasil",
+        role: "Software Developer",
+        period: "03/2025 - Presente",
         bullets: [
-          "Liderou entregas de alto impacto em produto e engenharia.",
-          "Melhorou confiabilidade com testes, observabilidade e padroes.",
-          "Apoiou decisoes de arquitetura com foco em escala e manutencao.",
+          "Desenvolver e manter aplicações usando .NET 6/8 e ASP.NET Core..",
+          "Implementar e gerenciar APIs RESTful com foco em escalabilidade e performance.",
+          "Realizar revisões de código para garantir qualidade e consistência em toda a base de código.",
+          "Criar e otimizar stored procedures, views e funções T-SQL.",
         ],
       },
-      {
+      /*       {
         company: "Empresa Anterior",
         location: "Cidade, Pais",
         role: "Cargo Anterior",
@@ -134,7 +135,7 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
           "Reduziu custos operacionais com automacoes tecnicas.",
           "Mentorou pessoas do time em boas praticas de desenvolvimento.",
         ],
-      },
+      }, */
     ],
     skills: skillsPt,
     education: {
