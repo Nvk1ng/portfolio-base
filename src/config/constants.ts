@@ -9,38 +9,38 @@ export const SUPPORTED_LOCALES: { code: Locale; label: string }[] = [
 ];
 
 const skillsPt = [
-  "TypeScript",
-  "React",
+  ".NET/C#",
+  "SQL",
   "Node.js",
-  "Next.js",
-  "NestJS",
-  "PostgreSQL",
+  "Kubernetes",
   "Docker",
   "AWS",
+  "MongoDB",
+  "Python",
   "CI/CD",
 ];
 
 const skillsEn = [
-  "TypeScript",
-  "React",
+  ".NET/C#",
+  "SQL",
   "Node.js",
-  "Next.js",
-  "NestJS",
-  "PostgreSQL",
+  "Kubernetes",
   "Docker",
   "AWS",
+  "MongoDB",
+  "Python",
   "CI/CD",
 ];
 
 const skillsEs = [
-  "TypeScript",
-  "React",
+  ".NET/C#",
+  "SQL",
   "Node.js",
-  "Next.js",
-  "NestJS",
-  "PostgreSQL",
+  "Kubernetes",
   "Docker",
   "AWS",
+  "MongoDB",
+  "Python",
   "CI/CD",
 ];
 
