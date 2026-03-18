@@ -114,7 +114,7 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
     ],
     experiences: [
       {
-        company: "Empresa Atual",
+        company: "Codenapp",
         location: "Remoto / Vitória - ES, Brasil",
         role: "Software Developer",
         period: "03/2025 - Presente",
@@ -220,17 +220,18 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
     ],
     experiences: [
       {
-        company: "Current Company",
-        location: "Remote / City, Country",
+        company: "Codenapp",
+        location: "Remote / Vitória - ES, Brasil",
         role: "Current Role",
-        period: "01/2024 - Present",
+        period: "03/2025 - Present",
         bullets: [
-          "Led high-impact deliveries across product and engineering.",
-          "Improved reliability through testing, observability, and standards.",
-          "Supported architectural decisions focused on scale and maintainability.",
+          "Develop and maintain applications using .NET 6/8 and ASP.NET Core.",
+          "Implement and manage RESTful APIs with a focus on scalability and performance.",
+          "Conduct code reviews to ensure quality and consistency throughout the codebase.",
+          "Create and optimize stored procedures, views, and T-SQL functions.",
         ],
       },
-      {
+      /*       {
         company: "Previous Company",
         location: "City, Country",
         role: "Previous Role",
@@ -240,7 +241,7 @@ export const TRANSLATIONS: Record<Locale, TranslationContent> = {
           "Reduced operational cost through technical automation.",
           "Mentored teammates on engineering best practices.",
         ],
-      },
+      }, */
     ],
     skills: skillsEn,
     education: {
